@@ -9,6 +9,7 @@ This project was created by Codecademy as a React Router lesson. The task was to
 - Switch 
 - Redirect
 - Query Parameters
+  
 This changed the website from a static, hard to navigate website with buttons that wouldn't do anything into a dynamic and easy to navigate website. The website now has functioning back and forward buttons that will take the user back a page or forward. Allows the user to search for articles based on a keyword in the title (e.g. 'Browser' will show only articles with 'Browser' in the title). The user can now navigate pages without the pages reloading everytime. The user can now see all articles written by a single author, aswell as signup and edit their username. 
 
 
