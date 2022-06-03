@@ -1,5 +1,5 @@
 This project was created by Codecademy as a React Router lesson. The task was too add React elements to make the website more dynamic and easier to navigate for a user. To do so I implemented:
-- <Route> components
+- Route components
 - useHistory(),
 - Links and Navlinks
 - useLocations()
